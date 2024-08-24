@@ -116,4 +116,3 @@ Se você tiver dúvidas, sugestões ou quiser colaborar, sinta-se à vontade par
 
 ---
 Obrigado por usar nosso sistema de gerenciamento de concessionária!
-```
